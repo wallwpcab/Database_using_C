@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1665215354 source:c:\users\user\documents\github\databaseusingc-main\databaseusingc-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"helpingFunc.h"
+	"main.h"
+
+1665215354 c:\users\user\documents\github\databaseusingc-main\databaseusingc-main\helpingfunc.h
+	"main.h"
+
+1665215354 c:\users\user\documents\github\databaseusingc-main\databaseusingc-main\main.h
+	"helpingFunc.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
